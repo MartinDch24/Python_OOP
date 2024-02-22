@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="First OOP lecture">
-      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/cup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/flower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/programmer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/steam_user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First Steps in OOP/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/First Steps in OOP/car.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/First Steps in OOP/music.py" beforeDir="false" afterPath="$PROJECT_DIR$/First Steps in OOP/music.py" afterDir="false" />
-    </list>
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="First OOP lecture" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +63,29 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First OOP lecture" />
