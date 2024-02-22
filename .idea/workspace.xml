@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps in OOP/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps in OOP/class_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps in OOP/music.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps in OOP/rhombus_of_stars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First Steps in OOP/scope_mess.py" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="First OOP lecture">
+      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/cup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - First Steps in OOP/steam_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First Steps in OOP/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/First Steps in OOP/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First Steps in OOP/music.py" beforeDir="false" afterPath="$PROJECT_DIR$/First Steps in OOP/music.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2cdjhZb8jDX9lF8s0GgWFjJzG0V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in programmer.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -65,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708448469589</updated>
     </task>
+    <task id="LOCAL-00001" summary="First OOP lecture">
+      <option name="closed" value="true" />
+      <created>1708454771846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708454771846</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First OOP lecture" />
+    <option name="LAST_COMMIT_MESSAGE" value="First OOP lecture" />
   </component>
 </project>

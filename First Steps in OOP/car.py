@@ -5,4 +5,4 @@ class Car:
         self.engine = engine
 
     def get_info(self):
-        return f"This is  {self.name} {self.model} with engine {self.engine}"
+        return f"This is {self.name} {self.model} with engine {self.engine}"
