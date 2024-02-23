@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="First OOP lecture" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="First OOP lecture">
+      <change afterPath="$PROJECT_DIR$/Classes and Objects/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes and Objects/glass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes and Objects/point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes and Objects/smartphone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes and Objects/vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in programmer.py.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in programmer.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
