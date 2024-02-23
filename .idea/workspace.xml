@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="First OOP lecture">
-      <change afterPath="$PROJECT_DIR$/Classes and Objects/circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes and Objects/glass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes and Objects/point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes and Objects/smartphone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes and Objects/vehicle.py" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Classes and Objects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,14 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in programmer.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in programmer.py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PyCharm Community Edition 2023.1/Python_OOP/Exercise - First Steps in OOP"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - First Steps in OOP" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +69,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708454771846</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Classes and Objects">
+      <option name="closed" value="true" />
+      <created>1708714793475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708714793475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First OOP lecture" />
-    <option name="LAST_COMMIT_MESSAGE" value="First OOP lecture" />
+    <MESSAGE value="Classes and Objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes and Objects" />
   </component>
 </project>
