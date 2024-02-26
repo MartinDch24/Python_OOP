@@ -5,6 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Classes and Objects">
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/account ​.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/guild_system/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/guild_system/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/guild_system/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/library/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/library/project/library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/library/project/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/library/project/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/pizza_delivery​.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/spoopify/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/spoopify/project/album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/spoopify/project/band.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/spoopify/project/song.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/to-do_list/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/to-do_list/project/section.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/to-do_list/project/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/vet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +52,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for vet.Vet.Tests.executor": "Run",
+    "Python tests.Python tests for vet.Vet.Tests.test_init.executor": "Run",
+    "Python tests.Python tests for vet.Vet.Tests.test_register_unsuccessfull.executor": "Run",
+    "Python tests.Python tests in band.py.executor": "Run",
+    "Python tests.Python tests in pizza_delivery​.py.executor": "Run",
     "Python tests.Python tests in programmer.py.executor": "Run",
+    "Python tests.Python tests in section.py.executor": "Run",
+    "Python.guild.executor": "Run",
+    "Python.task.executor": "Run",
+    "Python.vet.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -44,6 +72,63 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - First Steps in OOP" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - Classes and Objects\to-do_list\project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for vet.Vet.Tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Classes and Objects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;vet.Vet.Tests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for vet.Vet.Tests.test_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Classes and Objects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;vet.Vet.Tests.test_init&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for vet.Vet.Tests.test_register_unsuccessfull" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Classes and Objects" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;vet.Vet.Tests.test_register_unsuccessfull&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for vet.Vet.Tests" />
+        <item itemvalue="Python tests.Python tests for vet.Vet.Tests.test_register_unsuccessfull" />
+        <item itemvalue="Python tests.Python tests for vet.Vet.Tests.test_init" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
