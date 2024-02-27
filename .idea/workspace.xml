@@ -4,26 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Classes and Objects">
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/account ​.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/guild_system/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/guild_system/project/guild.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/guild_system/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/library/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/library/project/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/library/project/registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/library/project/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/pizza_delivery​.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/spoopify/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/spoopify/project/album.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/spoopify/project/band.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/spoopify/project/song.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/to-do_list/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/to-do_list/project/section.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/to-do_list/project/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Classes and Objects/vet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Classes and Objects - Exercise">
+      <change afterPath="$PROJECT_DIR$/Inheritance/food/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/food/project/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/food/project/fruit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/hierarchical_inheritance/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/hierarchical_inheritance/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/hierarchical_inheritance/project/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/hierarchical_inheritance/project/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/multilevel_inheritance/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/multilevel_inheritance/project/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/multilevel_inheritance/project/sports_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/multilevel_inheritance/project/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/multiple_inheritance/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/multiple_inheritance/project/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/multiple_inheritance/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/multiple_inheritance/project/teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/single_inheritance/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/single_inheritance/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/single_inheritance/project/dog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inheritance/stack_of_strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,8 @@
     "Python tests.Python tests in pizza_delivery​.py.executor": "Run",
     "Python tests.Python tests in programmer.py.executor": "Run",
     "Python tests.Python tests in section.py.executor": "Run",
+    "Python.cat.executor": "Run",
+    "Python.dog.executor": "Run",
     "Python.guild.executor": "Run",
     "Python.task.executor": "Run",
     "Python.vet.executor": "Run",
@@ -162,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708714793475</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Classes and Objects - Exercise">
+      <option name="closed" value="true" />
+      <created>1708991396500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708991396500</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First OOP lecture" />
     <MESSAGE value="Classes and Objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes and Objects" />
+    <MESSAGE value="Classes and Objects - Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes and Objects - Exercise" />
   </component>
 </project>
