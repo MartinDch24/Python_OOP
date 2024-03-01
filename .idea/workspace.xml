@@ -4,42 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/ need_for_speed/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/ need_for_speed/project/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/ need_for_speed/project/cross_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/ need_for_speed/project/family_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/ need_for_speed/project/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/ need_for_speed/project/race_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/ need_for_speed/project/sport_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/ need_for_speed/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/person/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/person/project/child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/person/project/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/blade_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/dark_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/dark_wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/players_and_monsters/project/wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/shop/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/shop/project/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/shop/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/shop/project/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/shop/project/product_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/zoo/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/zoo/project/bear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/zoo/project/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/zoo/project/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/zoo/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/zoo/project/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Inheritance/zoo/project/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Inheritance - Exercise">
+      <change afterPath="$PROJECT_DIR$/Encapsulation/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/email_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/profile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,9 +48,11 @@
     "Python tests.Python tests in main.py.executor": "Run",
     "Python tests.Python tests in pizza_delivery​.py.executor": "Run",
     "Python tests.Python tests in product_repository.py.executor": "Run",
+    "Python tests.Python tests in profile.py.executor": "Run",
     "Python tests.Python tests in programmer.py.executor": "Run",
     "Python tests.Python tests in section.py.executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.account.executor": "Run",
     "Python.cat.executor": "Run",
     "Python.dog.executor": "Run",
     "Python.guild.executor": "Run",
@@ -202,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709060989649</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Inheritance - Exercise">
+      <option name="closed" value="true" />
+      <created>1709228482977</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709228482977</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +213,7 @@
     <MESSAGE value="Classes and Objects" />
     <MESSAGE value="Classes and Objects - Exercise" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="Inheritance - Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance - Exercise" />
   </component>
 </project>
