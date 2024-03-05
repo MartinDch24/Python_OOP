@@ -4,12 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Inheritance - Exercise">
-      <change afterPath="$PROJECT_DIR$/Encapsulation/account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/email_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Encapsulation/profile.py" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Encapsulation">
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/football_team_generator/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/football_team_generator/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/football_team_generator/project/team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/pizza_maker/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/pizza_maker/project/dough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/pizza_maker/project/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/pizza_maker/project/topping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/cold_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/hot_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/tea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/dessert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/main_dish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/salmon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/caretaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/cheetah.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/keeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/lion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/tiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +86,11 @@
     "Python.cat.executor": "Run",
     "Python.dog.executor": "Run",
     "Python.guild.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.pizza.executor": "Run",
     "Python.task.executor": "Run",
     "Python.vet.executor": "Run",
+    "Python.zoo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -182,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709228482977</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Encapsulation">
+      <option name="closed" value="true" />
+      <created>1709327163480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709327163480</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +255,18 @@
     <MESSAGE value="Classes and Objects - Exercise" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Inheritance - Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance - Exercise" />
+    <MESSAGE value="Encapsulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/main.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
