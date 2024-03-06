@@ -4,41 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Encapsulation">
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/football_team_generator/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/football_team_generator/project/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/football_team_generator/project/team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/pizza_maker/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/pizza_maker/project/dough.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/pizza_maker/project/pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/pizza_maker/project/topping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/beverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/coffee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/cold_beverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/hot_beverage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/beverage/tea.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/cake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/dessert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/main_dish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/salmon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/food/starter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/restaurant/project/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/caretaker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/cheetah.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/keeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/lion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Encapsulation/wild_cat_zoo/project/zoo.py" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Encapsulation - Exercise">
+      <change afterPath="$PROJECT_DIR$/Static and Class Methods/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static and Class Methods/hotel_rooms/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static and Class Methods/hotel_rooms/project/hotel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static and Class Methods/hotel_rooms/project/room.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static and Class Methods/integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Static and Class Methods/shop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -94,6 +66,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/PyCharm Community Edition 2023.1/Python_OOP/Exercise - First Steps in OOP"
   }
 }]]></component>
@@ -105,64 +78,10 @@
       <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - Classes and Objects\to-do_list\project" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Python tests for vet.Vet.Tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_OOP" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Classes and Objects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;vet.Vet.Tests&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for vet.Vet.Tests.test_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_OOP" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Classes and Objects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;vet.Vet.Tests.test_init&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for vet.Vet.Tests.test_register_unsuccessfull" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Python_OOP" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercise - Classes and Objects" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;vet.Vet.Tests.test_register_unsuccessfull&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.Python tests for vet.Vet.Tests" />
-        <item itemvalue="Python tests.Python tests for vet.Vet.Tests.test_register_unsuccessfull" />
-        <item itemvalue="Python tests.Python tests for vet.Vet.Tests.test_init" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -223,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709327163480</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Encapsulation - Exercise">
+      <option name="closed" value="true" />
+      <created>1709676341247</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709676341247</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,7 +183,8 @@
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Inheritance - Exercise" />
     <MESSAGE value="Encapsulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation" />
+    <MESSAGE value="Encapsulation - Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation - Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
