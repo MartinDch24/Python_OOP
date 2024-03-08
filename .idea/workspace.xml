@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Static and Class Methods">
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/document_management/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/document_management/project/category.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/document_management/project/document.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/document_management/project/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/document_management/project/topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/gym/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/gym/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/gym/project/equipment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/gym/project/exercise_plan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/gym/project/gym.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/gym/project/next_id_mixin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/gym/project/subscription.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/gym/project/trainer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/movie_world/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/movie_world/project/customer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/movie_world/project/dvd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/movie_world/project/movie_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Static and Class Methods/photo_album.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Static and Class Methods - Exercise">
+      <change afterPath="$PROJECT_DIR$/Polymorphism and Abstraction/image_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism and Abstraction/playing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism and Abstraction/robots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polymorphism and Abstraction/shapes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,40 +37,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for vet.Vet.Tests.executor": "Run",
-    "Python tests.Python tests for vet.Vet.Tests.test_init.executor": "Run",
-    "Python tests.Python tests for vet.Vet.Tests.test_register_unsuccessfull.executor": "Run",
-    "Python tests.Python tests in __init__.py.executor": "Run",
-    "Python tests.Python tests in band.py.executor": "Run",
-    "Python tests.Python tests in main.py.executor": "Run",
-    "Python tests.Python tests in movie_world.py.executor": "Run",
-    "Python tests.Python tests in photo_album.py.executor": "Run",
-    "Python tests.Python tests in pizza_delivery​.py.executor": "Run",
-    "Python tests.Python tests in product_repository.py.executor": "Run",
-    "Python tests.Python tests in profile.py.executor": "Run",
-    "Python tests.Python tests in programmer.py.executor": "Run",
-    "Python tests.Python tests in section.py.executor": "Run",
-    "Python tests.Python tests in storage.py.executor": "Run",
-    "Python.__init__.executor": "Run",
-    "Python.account.executor": "Run",
-    "Python.cat.executor": "Run",
-    "Python.dog.executor": "Run",
-    "Python.guild.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pizza.executor": "Run",
-    "Python.task.executor": "Run",
-    "Python.vet.executor": "Run",
-    "Python.zoo.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PyCharm Community Edition 2023.1/Python_OOP/Exercise - First Steps in OOP"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for vet.Vet.Tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for vet.Vet.Tests.test_init.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for vet.Vet.Tests.test_register_unsuccessfull.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in __init__.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in band.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in main.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in movie_world.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in photo_album.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in pizza_delivery​.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in product_repository.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in profile.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in programmer.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in section.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in storage.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dog.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guild.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pizza.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zoo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PyCharm Community Edition 2023.1/Python_OOP/Exercise - First Steps in OOP&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - First Steps in OOP" />
@@ -174,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709760847613</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Static and Class Methods - Exercise">
+      <option name="closed" value="true" />
+      <created>1709842798185</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709842798185</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,7 +202,8 @@
     <MESSAGE value="Encapsulation" />
     <MESSAGE value="Encapsulation - Exercise" />
     <MESSAGE value="Static and Class Methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static and Class Methods" />
+    <MESSAGE value="Static and Class Methods - Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static and Class Methods - Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
