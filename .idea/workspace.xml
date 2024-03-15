@@ -4,28 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Polymorphism and Abstraction">
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/animals/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/animals/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/animals/project/cat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/animals/project/dog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/animals/project/kitten.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/animals/project/tomcat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/formula_1_manager/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/formula_1_manager/project/f1_season_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/formula_1_manager/project/formula_teams/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/formula_1_manager/project/formula_teams/formula_team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/formula_1_manager/project/formula_teams/mercedes_team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/formula_1_manager/project/formula_teams/red_bull_team.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/vehicles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/wild_farm/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/wild_farm/project/animals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/wild_farm/project/animals/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/wild_farm/project/animals/birds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/wild_farm/project/animals/mammals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Polymorphism and Abstraction/wild_farm/project/food.py" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Polymorphism and Abstraction - Exercise">
+      <change afterPath="$PROJECT_DIR$/Iterators and Generators/custom_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterators and Generators/generator_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterators and Generators/reverse_iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterators and Generators/reverse_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterators and Generators/squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterators and Generators/vowels.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -74,6 +59,7 @@
     "Python tests.Python tests in section.py.executor": "Run",
     "Python tests.Python tests in storage.py.executor": "Run",
     "Python tests.Python tests in vehicles.py.executor": "Run",
+    "Python tests.Python tests in vowels.py.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.account.executor": "Run",
     "Python.cat.executor": "Run",
@@ -198,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709937573016</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Polymorphism and Abstraction - Exercise">
+      <option name="closed" value="true" />
+      <created>1710193130232</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710193130232</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +229,8 @@
     <MESSAGE value="Static and Class Methods" />
     <MESSAGE value="Static and Class Methods - Exercise" />
     <MESSAGE value="Polymorphism and Abstraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and Abstraction" />
+    <MESSAGE value="Polymorphism and Abstraction - Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and Abstraction - Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
