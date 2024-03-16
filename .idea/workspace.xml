@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Polymorphism and Abstraction - Exercise">
-      <change afterPath="$PROJECT_DIR$/Iterators and Generators/custom_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterators and Generators/generator_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterators and Generators/reverse_iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterators and Generators/reverse_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterators and Generators/squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterators and Generators/vowels.py" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Iterators and Generators">
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/divers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/divers/base_diver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/divers/free_diver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/divers/scuba_diver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/base_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/deep_sea_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/predatory_fish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/nautical_catch_challenge_app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,12 +66,14 @@
     "Python tests.Python tests in vowels.py.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.account.executor": "Run",
+    "Python.base_diver.executor": "Run",
     "Python.cat.executor": "Run",
     "Python.dog.executor": "Run",
     "Python.formula_team.executor": "Run",
     "Python.guild.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mercedes_team.executor": "Run",
+    "Python.nautical_catch_challenge_app.executor": "Run",
     "Python.pizza.executor": "Run",
     "Python.red_bull_team.executor": "Run",
     "Python.task.executor": "Run",
@@ -192,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710193130232</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Iterators and Generators">
+      <option name="closed" value="true" />
+      <created>1710532905829</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710532905829</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +220,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -230,7 +244,8 @@
     <MESSAGE value="Static and Class Methods - Exercise" />
     <MESSAGE value="Polymorphism and Abstraction" />
     <MESSAGE value="Polymorphism and Abstraction - Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism and Abstraction - Exercise" />
+    <MESSAGE value="Iterators and Generators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Iterators and Generators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
