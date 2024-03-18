@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Iterators and Generators">
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/divers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/divers/base_diver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/divers/free_diver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/divers/scuba_diver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/base_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/deep_sea_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/predatory_fish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/nautical_catch_challenge_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Exam preparation">
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/countdown_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/dictionary_iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/fibonacci_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/possible_permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/prime_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/sequence_repeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/take_halves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/take_skip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +55,7 @@
     "Python tests.Python tests in movie_world.py.executor": "Run",
     "Python tests.Python tests in photo_album.py.executor": "Run",
     "Python tests.Python tests in pizza_delivery​.py.executor": "Run",
+    "Python tests.Python tests in prime_numbers.py.executor": "Run",
     "Python tests.Python tests in product_repository.py.executor": "Run",
     "Python tests.Python tests in profile.py.executor": "Run",
     "Python tests.Python tests in programmer.py.executor": "Run",
@@ -206,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710532905829</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Exam preparation">
+      <option name="closed" value="true" />
+      <created>1710585091413</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710585091413</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +252,8 @@
     <MESSAGE value="Polymorphism and Abstraction" />
     <MESSAGE value="Polymorphism and Abstraction - Exercise" />
     <MESSAGE value="Iterators and Generators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterators and Generators" />
+    <MESSAGE value="Exam preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exam preparation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
