@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Exam preparation">
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/countdown_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/dictionary_iterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/fibonacci_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/possible_permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/prime_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/sequence_repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/take_halves.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Iterators and Generators/take_skip.py" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Exercise - Iterators and Generators">
+      <change afterPath="$PROJECT_DIR$/Decorators/even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/number_increment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators/vowel_filter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +48,7 @@
     "Python tests.Python tests in groups.py.executor": "Run",
     "Python tests.Python tests in main.py.executor": "Run",
     "Python tests.Python tests in movie_world.py.executor": "Run",
+    "Python tests.Python tests in multiply.py.executor": "Run",
     "Python tests.Python tests in photo_album.py.executor": "Run",
     "Python tests.Python tests in pizza_delivery​.py.executor": "Run",
     "Python tests.Python tests in prime_numbers.py.executor": "Run",
@@ -66,6 +62,7 @@
     "Python.__init__.executor": "Run",
     "Python.account.executor": "Run",
     "Python.base_diver.executor": "Run",
+    "Python.base_fish.executor": "Run",
     "Python.cat.executor": "Run",
     "Python.dog.executor": "Run",
     "Python.formula_team.executor": "Run",
@@ -92,6 +89,35 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - Classes and Objects\to-do_list\project" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="base_fish" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam Preparation/Python OOP Exam - 9 December 2023/project/fish/base_fish.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.base_fish" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -213,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710585091413</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exercise - Iterators and Generators">
+      <option name="closed" value="true" />
+      <created>1710797100182</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710797100182</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +287,8 @@
     <MESSAGE value="Polymorphism and Abstraction - Exercise" />
     <MESSAGE value="Iterators and Generators" />
     <MESSAGE value="Exam preparation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exam preparation" />
+    <MESSAGE value="Exercise - Iterators and Generators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - Iterators and Generators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
