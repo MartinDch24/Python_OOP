@@ -4,11 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Exercise - Iterators and Generators">
-      <change afterPath="$PROJECT_DIR$/Decorators/even_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators/multiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators/number_increment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorators/vowel_filter.py" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Decorators">
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/bold_italic_underline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_store_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_types/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_types/computer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_types/desktop_computer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_types/laptop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/even_parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/execution_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/html_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/logged.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/store_results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/type_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +69,7 @@
     "Python tests.Python tests in programmer.py.executor": "Run",
     "Python tests.Python tests in section.py.executor": "Run",
     "Python tests.Python tests in storage.py.executor": "Run",
+    "Python tests.Python tests in type_check.py.executor": "Run",
     "Python tests.Python tests in vehicles.py.executor": "Run",
     "Python tests.Python tests in vowels.py.executor": "Run",
     "Python.__init__.executor": "Run",
@@ -64,26 +77,30 @@
     "Python.base_diver.executor": "Run",
     "Python.base_fish.executor": "Run",
     "Python.cat.executor": "Run",
+    "Python.computer_store_app.executor": "Run",
     "Python.dog.executor": "Run",
     "Python.formula_team.executor": "Run",
     "Python.guild.executor": "Run",
+    "Python.logged.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mercedes_team.executor": "Run",
     "Python.nautical_catch_challenge_app.executor": "Run",
     "Python.pizza.executor": "Run",
     "Python.red_bull_team.executor": "Run",
     "Python.task.executor": "Run",
+    "Python.testing.executor": "Run",
     "Python.vet.executor": "Run",
     "Python.zoo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PyCharm Community Edition 2023.1/Python_OOP/Exercise - First Steps in OOP"
+    "last_opened_file_path": "D:/PyCharm Community Edition 2023.1/Python_OOP/Exercise - Decorators/computer_store"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - Decorators\computer_store" />
       <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - First Steps in OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -113,8 +130,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testing" />
         <item itemvalue="Python.base_fish" />
       </list>
     </recent_temporary>
@@ -247,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710797100182</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Decorators">
+      <option name="closed" value="true" />
+      <created>1710877832766</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710877832766</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +336,8 @@
     <MESSAGE value="Iterators and Generators" />
     <MESSAGE value="Exam preparation" />
     <MESSAGE value="Exercise - Iterators and Generators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise - Iterators and Generators" />
+    <MESSAGE value="Decorators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decorators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
