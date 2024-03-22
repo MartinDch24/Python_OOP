@@ -4,23 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Decorators">
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/bold_italic_underline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/cache.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_store_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_types/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_types/computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_types/desktop_computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/computer_store/project/computer_types/laptop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/even_parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/execution_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/html_tags.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/logged.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/store_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - Decorators/type_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_OOP.iml" afterDir="false" />
+    <list default="true" id="16b6eb2a-01f6-4402-b7a7-603fc9e46262" name="Changes" comment="Exercise - Decorators">
+      <change afterPath="$PROJECT_DIR$/Testing/ List/extended_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/ List/test_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Car_Manager/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Car_Manager/test_car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Test_Cat/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/Test_Cat/test_cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/test_worker/test_worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testing/test_worker/worker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +44,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_car_manager.TestCar.executor": "Run",
+    "Python tests.Python tests for test_car_manager.TestCar.test_correct_init.executor": "Run",
     "Python tests.Python tests for vet.Vet.Tests.executor": "Run",
     "Python tests.Python tests for vet.Vet.Tests.test_init.executor": "Run",
     "Python tests.Python tests for vet.Vet.Tests.test_register_unsuccessfull.executor": "Run",
@@ -69,6 +63,10 @@
     "Python tests.Python tests in programmer.py.executor": "Run",
     "Python tests.Python tests in section.py.executor": "Run",
     "Python tests.Python tests in storage.py.executor": "Run",
+    "Python tests.Python tests in test_car_manager.py.executor": "Run",
+    "Python tests.Python tests in test_cat.py.executor": "Run",
+    "Python tests.Python tests in test_list.py.executor": "Run",
+    "Python tests.Python tests in test_worker.py.executor": "Run",
     "Python tests.Python tests in type_check.py.executor": "Run",
     "Python tests.Python tests in vehicles.py.executor": "Run",
     "Python tests.Python tests in vowels.py.executor": "Run",
@@ -95,19 +93,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PyCharm Community Edition 2023.1/Python_OOP/Exercise - Decorators/computer_store"
+    "last_opened_file_path": "D:/PyCharm Community Edition 2023.1/Python_OOP/Testing/ List"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Testing\ List" />
       <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - Decorators\computer_store" />
       <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - First Steps in OOP" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Testing\test_worker" />
       <recent name="D:\PyCharm Community Edition 2023.1\Python_OOP\Exercise - Classes and Objects\to-do_list\project" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in test_car_manager.py">
     <configuration name="base_fish" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_OOP" />
       <option name="ENV_FILES" value="" />
@@ -152,8 +152,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_car_manager.TestCar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing/Car_Manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_car_manager.TestCar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_car_manager.TestCar.test_correct_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing/Car_Manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_car_manager.TestCar.test_correct_init&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_car_manager.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Python_OOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testing/Car_Manager" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testing/Car_Manager/test_car_manager.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_car_manager.py" />
+        <item itemvalue="Python tests.Python tests for test_car_manager.TestCar" />
+        <item itemvalue="Python tests.Python tests for test_car_manager.TestCar.test_correct_init" />
         <item itemvalue="Python.testing" />
         <item itemvalue="Python.base_fish" />
       </list>
@@ -295,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710877832766</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Exercise - Decorators">
+      <option name="closed" value="true" />
+      <created>1711052058784</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1711052058784</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,7 +393,8 @@
     <MESSAGE value="Exam preparation" />
     <MESSAGE value="Exercise - Iterators and Generators" />
     <MESSAGE value="Decorators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators" />
+    <MESSAGE value="Exercise - Decorators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise - Decorators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
